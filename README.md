@@ -8,7 +8,7 @@
 
 **3.[Parrot](https://www.parrotsec.org/)**
 
-## Tool ที่ใช้
+## เครื่องมือที่ใช้
 **1.[IDA](https://hex-rays.com/ida-free/#download)**
 
 **2.[Ghidra](https://github.com/NationalSecurityAgency/ghidra)**
