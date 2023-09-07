@@ -18,3 +18,9 @@
 **ลองสังเกตุในส่วนของ offset a123456789 : "123456789" ❗ นั้นแหลาะคือรหัส**
 
 ![image](https://github.com/Thampakon/CTF/blob/main/root-me/Cracking/ELF%20x86%20-%200%20protection/Screenshot%202023-09-07%20122007.png)
+
+
+
+## เฉลยสำหรับคนขี้เกียจ
+
+**Password คือ "123456789"**
