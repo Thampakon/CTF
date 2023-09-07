@@ -8,6 +8,8 @@
 
 **3.[Parrot](https://www.parrotsec.org/)**
 
+**4.[Windows](https://www.microsoft.com/th-th/software-download/) (ส่วนตัวผมไม่ถนัด)**
+
 ## เครื่องมือที่ใช้
 **1.[IDA](https://hex-rays.com/ida-free/#download)**
 
