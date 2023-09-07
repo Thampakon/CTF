@@ -10,10 +10,15 @@
 
 ## Tool ที่ใช้
 **1.[IDA](https://hex-rays.com/ida-free/#download)**
+
 **2.[Ghidra](https://github.com/NationalSecurityAgency/ghidra)**
+
 **3.[x64dbg](https://x64dbg.com/)**
+
 **4.[Sqlmap](https://github.com/sqlmapproject/sqlmap)**
+
 **5.[Nmap](https://nmap.org/download.html)**
+
 **6.[Burp Suite](https://portswigger.net/burp/releases/professional-community-2023-9-4?requestededition=community&requestedplatform=)**
 
 ## รายชื่อเว็บ
