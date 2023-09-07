@@ -3,4 +3,5 @@
 
 # เริ่มต้น
 **เปิด Tool IDA ขึ้นมาแล้วกด New❗**
+
 ![image](https://github.com/Thampakon/CTF/blob/main/root-me/Cracking/ELF%20x86%20-%200%20protection/1.png)
