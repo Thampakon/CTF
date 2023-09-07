@@ -1,3 +1,7 @@
 ## Vidoes 🎥
 
-![Watch the video]([https://github.com/Thampakon/CTF/blob/main/root-me/ELF%20x86%20-%20Basic/2023-09-07%2012-50-11.mp4](https://github.com/Thampakon/CTF/raw/main/root-me/ELF%20x86%20-%20Basic/2023-09-07%2012-50-11.mp4)https://github.com/Thampakon/CTF/raw/main/root-me/ELF%20x86%20-%20Basic/2023-09-07%2012-50-11.mp4)
+![Watch the video](https://github.com/Thampakon/CTF/assets/119696243/4ee5f0d3-f333-4019-9efd-48ef5a93ebb4)
+
+
+https://github.com/Thampakon/CTF/assets/119696243/4ee5f0d3-f333-4019-9efd-48ef5a93ebb4
+
