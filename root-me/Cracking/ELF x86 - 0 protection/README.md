@@ -5,3 +5,8 @@
 **เปิด Tool IDA ขึ้นมาแล้วกด New❗**
 
 ![image](https://github.com/Thampakon/CTF/blob/main/root-me/Cracking/ELF%20x86%20-%200%20protection/1.png)
+
+
+** หากขึ้นแบบนี้้ให้กด OK❗ ได้เลย**
+
+![image](https://github.com/Thampakon/CTF/blob/main/root-me/Cracking/ELF%20x86%20-%200%20protection/Screenshot%202023-09-07%20123235.png)
