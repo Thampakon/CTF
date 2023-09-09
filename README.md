@@ -14,19 +14,15 @@
 **4.[Windows](https://www.microsoft.com/th-th/software-download/) (ส่วนตัวผมไม่ถนัด)**
 
 ## เครื่องมือที่ใช้
-**1.[IDA](https://hex-rays.com/ida-free/#download)**
 
-**2.[Ghidra](https://github.com/NationalSecurityAgency/ghidra)**
 
-**3.[x64dbg](https://x64dbg.com/)**
-
-**4.[Sqlmap](https://github.com/sqlmapproject/sqlmap)**
-
-**5.[Nmap](https://nmap.org/download.html)**
-
-**6.[Burp Suite](https://portswigger.net/burp/releases/professional-community-2023-9-4?requestededition=community&requestedplatform=)**
-
-**7.[NetCat](https://www.kali.org/tools/netcat/)**
+* **[IDA](https://hex-rays.com/ida-free/#download):** IDA  เป็นเครื่องมือถอดรหัสและวิเคราะห์โค้ดเชิงพาณิชย์ที่ได้รับความนิยม ช่วยให้ผู้ใช้สามารถดูและแก้ไขโค้ดต้นฉบับของโปรแกรมได้ IDA Pro สามารถใช้เพื่อวัตถุประสงค์ต่างๆ รวมถึงการแฮ็ก การดีบัก และการวิจัยความปลอดภัย
+* **[Ghidra](https://github.com/NationalSecurityAgency/ghidra):** Ghidra เป็นเครื่องมือถอดรหัสและวิเคราะห์โค้ดโอเพนซอร์สที่พัฒนาโดย National Security Agency (NSA) Ghidra มีคุณสมบัติและความสามารถที่คล้ายคลึงกับ IDA Pro แต่มีให้ใช้งานฟรี
+* **[x64dbg](https://x64dbg.com/):** x64dbg เป็นเครื่องมือดีบั๊กสำหรับโปรแกรม x64 ช่วยให้ผู้ใช้สามารถหยุดโปรแกรมชั่วคราวเพื่อตรวจสอบสถานะการทำงาน ตรวจสอบค่าตัวแปร และแก้ไขโค้ดได้ x64dbg สามารถใช้เพื่อวัตถุประสงค์ต่างๆ รวมถึงการแฮ็ก การดีบัก และการวิจัยความปลอดภัย
+* **[Sqlmap](https://github.com/sqlmapproject/sqlmap):** Sqlmap เป็นเครื่องมือเจาะฐานข้อมูล SQL ที่ได้รับความนิยม สามารถใช้เพื่อค้นหาและใช้ประโยชน์จากช่องโหว่ SQL Injection Sqlmap สามารถใช้เพื่อขโมยข้อมูล ทำลายข้อมูล และทำให้ระบบเสียหาย
+* **[Nmap](https://nmap.org/download.html):** Nmap เป็นเครื่องมือสแกนเครือข่ายที่ได้รับความนิยม สามารถใช้เพื่อค้นหาและระบุโหนดเครือข่าย ตรวจสอบพอร์ตเปิด และระบุบริการที่ทำงานอยู่ Nmap สามารถใช้เพื่อวัตถุประสงค์ต่างๆ รวมถึงการแฮ็ก การวิจัยความปลอดภัย และการจัดการเครือข่าย
+* **[Burp Suite](https://portswigger.net/burp/releases/professional-community-2023-9-4?requestededition=community&requestedplatform=):** Burp Suite เป็นชุดเครื่องมือความปลอดภัยเว็บที่ได้รับความนิยม ประกอบด้วยเครื่องมือต่างๆ ที่สามารถใช้เพื่อทดสอบความปลอดภัยของเว็บแอปพลิเคชัน Burp Suite สามารถใช้เพื่อระบุช่องโหว่ความปลอดภัย ทดสอบการโจมตี และตรวจสอบการตอบสนองของแอปพลิเคชัน
+* **[NetCat](https://www.kali.org/tools/netcat/):** NetCat เป็นเครื่องมือเครือข่ายอเนกประสงค์ที่ได้รับความนิยม สามารถใช้เพื่อสร้างการเชื่อมต่อเครือข่าย ถ่ายโอนข้อมูล และส่งคำสั่งไปยังอุปกรณ์ NetCat สามารถใช้เพื่อวัตถุประสงค์ต่างๆ รวมถึงการแฮ็ก การวิจัยความปลอดภัย และการจัดการเครือข่าย
 
 ## รายชื่อเว็บ
 1.[root-me.org](https://www.root-me.org/)
