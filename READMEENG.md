@@ -1,4 +1,4 @@
-## [Thai](https://github.com/Thampakon/CTF/edit/main/README.md)
+#### [Thai](https://github.com/Thampakon/CTF/edit/main/README.md)
 ## Important ❗❗📣📣 Notice
 **I'm looking for someone to help me with this project because I believe that if I do it alone, it may not even be done in 1 year.
 
