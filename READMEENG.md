@@ -1,7 +1,4 @@
 #### [Thai](https://github.com/Thampakon/CTF/edit/main/README.md)
-## Important ❗❗📣📣 
-**I'm looking for someone to help me with this project because I believe that if I do it alone, it may not even be done in 1 year.
-
 ### Notes
 **I will compile various tests of each website for training for CTF competitions from most websites, some of which I may not do myself because I don't have time to do them on all websites. But there will be all the answers for beginners, but it may take a long time for this project to be completed.**
 
