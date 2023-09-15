@@ -7,6 +7,7 @@
 ```
 
 ภาพประกอบจาก Root Me
-[PNG](https://github.com/Thampakon/CTF/blob/main/root-me/Web%20-%20Server/SQL%20injection%20-%20Numeric/Screenshot%202023-09-10%20044440.png)
+
+https://github.com/Thampakon/CTF/blob/main/root-me/Web%20-%20Server/SQL%20injection%20-%20Numeric/Screenshot%202023-09-10%20044440.png
 
 
